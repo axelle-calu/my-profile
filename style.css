@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-	color: #C19191;
+	color: #00334A;
 	font-size: 15.25px;
 	text-align: center;
 }
@@ -98,17 +98,17 @@ a:hover {
 	border-radius: 50%;
 }
 
-.btn-pink{
-	background-color: #C19191;
+.btn-blue{
+	background-color: #00334A;
 	color: white;
 	padding : 10px 15px;
 	border-radius: 10px;
 	font-size: 15px;
 }
 
-.btn-pink:hover {
+.btn-blue:hover {
 	background-color: white;
-	color: #C19191;
+	color: #00334A;
 	border: 1px #C19191 double;
 	font-size: 15px;
 }
