@@ -31,14 +31,14 @@ H2 {
 
 a {
 	text-decoration: none;
-	color: #00334A;
+	color: #007FA9;
 	font-weight: regular;
 	font-size: 15px;
 	text-align: center;
 }
 
 a:hover {
-	color: #00334A;
+	color: #007FA9;
 	font-size: 15.25px;
 	text-align: center;
 }
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .btn-blue{
-	background-color: #00334A;
+	background-color: #007FA9;
 	color: white;
 	padding : 10px 15px;
 	border-radius: 10px;
@@ -108,8 +108,8 @@ a:hover {
 
 .btn-blue:hover {
 	background-color: white;
-	color: #00334A;
-	border: 1px #C19191 double;
+	color: #007FA9;
+	border: 1px #007FA9 double;
 	font-size: 15px;
 }
 
